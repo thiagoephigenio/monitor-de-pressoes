@@ -1,0 +1,21 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+body {
+    line-height: 1;
+    box-sizing: border-box !important;
+    background: #121214 !important;
+    /* background: linear-gradient(90deg,#202024,rgba(32,32,36,0.25)) !important; */
+}
+@media(max-width: 1247px) {
+    html{
+        font-size: 80% !important;
+    }
+}
